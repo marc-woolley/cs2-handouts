@@ -7,3 +7,5 @@ projects where I create the template, and you work alone.
 - commit changes - `git commit -a` - opens editor for a description of the changes
 - push - `git push` - copy changes back to Github
 - pull - `git pull` - If you've made changes from another computer since you were at this one.
+-what is this madness where is my files 
+
